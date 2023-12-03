@@ -1,0 +1,8 @@
+bs4
+BeautifulSoup
+re
+requests
+time
+sleep
+tqdm
+pandas
