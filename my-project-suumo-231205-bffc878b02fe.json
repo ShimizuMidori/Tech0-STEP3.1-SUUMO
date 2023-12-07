@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-suumo-231205",
+  "private_key_id": "bffc878b02fed0628ce425c983ec34e8783ce974",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSFIxPsorF9ODT\n9UddHNQlvWoClcThqowZYOQMXNUS39ccMHrUrn5FS7R+pP3P+Og9YSqWwSiZW17E\nbrOpk8YhHhKRGzvQ8mUuK653e480EOJN8cflygD+cdxmYQlueT2gbhsci9jfje0p\nbqbbtIg0ejIVdIwY7QQDp+tFsl3XWShP70uvLXKlp6/bOLa9Q6J9BHErc8oFoGCc\nFfDSoT0ctBa9ZPFEPVJCCFuqoraAR7qHR9qqNeh+gRb537tutjWAkI1RFbF3dKkX\nLuGWhcR4gcyggTUduZiQOrJP/V8YNV7S80hRxTutv7/fw2sEX8iri6P5HfM2nrfv\nwZ1glEThAgMBAAECggEAGf+V/7TyTJ5KBqEntEPBk2wWBvze8SiIjwl5H3iLm/rc\npa3wPYrcsJm2XCfyCz9cCmCQgzijXBs9JqUmkdlqXyXYGWIb7HdbAzQ/sqS1a7Wd\nNBU0bmEp71NK+daPcr8JW+XUcBt0evIXBBYgCzeT1Z67vQD/54PJh+RLjwQMbf5u\nkX6BPY1NVQ02Jtt2MlHonQ7dLEjzA8zf3Obzwh7oyCQRp1iiTZDfA78QaDmkqdIa\nDZfBMYL+SMZzRgb2N336AlcOyvzC1Pa/U6gh5RlJ2J1HBcCOZwKV30cNw29SxYcS\nApYRBKkJrm4ZcmHCojUh7FuopNOmDcmScQsjYa1fmwKBgQD7tv3qDTa/z7K9GCvk\nsVQ5tNapg1EIP627T5ZBuHwH3wbZMpkr8f4gvwciHacjVdzf4ByD84WjMl/lL4N7\nvIkSBp7pSNLsbuynPw2+5QYTV0/oEg+9aucvA2ZnRnoxzB4QcHFKu/1K3QUHdX4N\nF6r755FOkP//0X8F21Rc9ODTbwKBgQDVqBtq0OXk9sw9dLx08IzSOP1GRWpZtu1G\nUF8GpIRIKXb07ouEe4LlS/RjodhOOyNReDlQA35j4+XaQ580RXKskI6y+fXqvseJ\nUe+wWGtZw3YtX6mxqevXQVSZfWmqrJpf5dvpxYEJf9p+UncUab0c5B+MK7XC/lz4\nTlwpfsoErwKBgQC5MSvk/C3Qt2XAm70Hd7QI9NSOSM/gasFOM0LQPYP7YoouWHy7\nCUK4IvODlR937t8fU0qHhi5HIHPPMcLh0ZdjTL2z0uFkFERG1Cwvy15J8o4Wptsv\nuCw4uZ6o0wBqDMv9ukyP+Hllj/D4SOghh81Dol6U2DeQpjh3PaP29C9JPwKBgExn\nTUapZUy3pNnlQO9ghjs2/ft/H0Tt0XPvkcvCUTus+EkmdOXvdSOiQcbPPZbcNwkP\nQQ+H8E6wVKX0wJ3kp9ll6GHAWVyU1K4aiug49kqnRz96kihiZ2AWkLZCzuKlzp60\niCvU4QwQmIXL36GBHouSWGW7y8frRjvVace8+2kpAoGABG98OiDSGwsfLonEPD8/\ns9UsgtT/3mTL+/BZWhT1c9F1k16RlJBM1TVwEUMbBKjRxt8gaSRECEt6KV9qiokt\nHibVUOEzLOfyJuiheHBViRGg8e54WXXEGEVPLm4dfLB4mNRQxX5s341WxtgN1p32\nJBPeIWFvCurECJy8wmDciMo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "suumo-test@my-project-suumo-231205.iam.gserviceaccount.com",
+  "client_id": "116792217070282285332",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/suumo-test%40my-project-suumo-231205.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
