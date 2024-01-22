@@ -4,4 +4,3 @@ pandas
 streamlit_folium
 folium
 requests
-urllib
