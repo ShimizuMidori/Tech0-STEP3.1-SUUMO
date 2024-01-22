@@ -1,7 +1,6 @@
 streamlit
 Pillow
 pandas
-os
 streamlit_folium
 folium
 requests
