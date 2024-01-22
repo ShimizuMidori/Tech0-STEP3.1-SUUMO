@@ -1,8 +1,9 @@
-bs4
-BeautifulSoup
-re
-requests
-time
-sleep
-tqdm
+streamlit
+PIL
 pandas
+sqlite3
+os
+streamlit_folium
+folium
+requests
+urllib
