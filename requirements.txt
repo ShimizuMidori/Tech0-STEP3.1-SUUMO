@@ -1,7 +1,6 @@
 streamlit
 Pillow
 pandas
-sqlite3
 os
 streamlit_folium
 folium
